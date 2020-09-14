@@ -1,0 +1,16 @@
+.countryDetailsShow {
+    margin: 0 auto;
+    margin-top: 5%;
+    width: 80%;
+    border: 2px solid lightgray;
+}
+
+.countryDetails__image {
+    height: 300px;
+    width: 400px;
+}
+
+.countryDetails__image img {
+    width: 100%;
+    height: 100%;
+}
